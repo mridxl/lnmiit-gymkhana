@@ -1,6 +1,6 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import logo from '../assets/gymkhana-nav-logo.png';
-import { useEffect, useState } from 'react';
+import { useEffect } from 'react';
 
 const Header = () => {
 	useEffect(() => {
