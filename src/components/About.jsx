@@ -17,26 +17,17 @@ const About = () => {
 						}}
 					></div>
 					<p>
-						The LNMIIT Students' Gymkhana isn't just a student government; it's
-						the heart of campus life. Established in 2006, our mission is to
-						empower students to develop their leadership skills, champion their
-						peers' interests, and foster a thriving community. We're more than
-						just a governing body. We're a platform for you to hone your
-						leadership skills, advocate for your peers, and build lifelong
-						connections. From leadership training to campus events, we offer a
-						vibrant space where you can truly thrive. Our student body elects a
-						Senate and Executive team, including a President and General
-						Secretaries for Cultural Council, Science & Tech Council, and Games
-						& Sports Council. Together, we work alongside the Institute's
-						Academic Senate and Board of Governors to ensure student voices are
-						heard in crucial decision-making processes. We also have nominated
-						representatives in departmental committees, ensuring both
-						undergraduate and postgraduate students have a say in shaping their
-						educational experience. But the Gymkhana isn't just about rules and
-						regulations. It's about creating an inclusive and empowering
-						environment where students can thrive. We encourage you to get
-						involved, share your ideas, and co-create a campus experience that's
-						truly unforgettable!
+						The Students' Gymkhana is the students' government organization of
+						The LNMIIT, Jaipur. Established in 2006, the Gymkhana seeks to
+						cultivate qualities of leadership amongst students to foster a
+						corporate life and to advance the general cause of the student body
+						of the student body of the Institute.It aims at promoting and
+						developing organizational abilities in students. It has been
+						successful over the years in evolving a well-informed, articulate
+						and participatory student community life. It has been instrumental
+						in identifying student issues and promoting discussion on them. It
+						functions as the office for all election and nominations of students
+						for gymkhana activities.
 					</p>
 				</div>
 			</div>
