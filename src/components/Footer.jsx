@@ -133,12 +133,9 @@ const Footer = () => {
 				<div className="copyright-text row">
 					<div className="credits col-sm-12">
 						<span style={{ fontWeight: '100' }}>
-							&copy; Copyright{' '}
-							<span style={{ fontWeight: '600' }}>
-								Students' Gymkhana, LNMIIT Jaipur
-							</span>
+							&copy; Copyright Students' Gymkhana, LNMIIT Jaipur
 						</span>
-						<span className="credit-N-M">Developed by NJACK and MoodBoard</span>
+						<span>Developed with ❤️ by Team</span>
 					</div>
 				</div>
 			</div>
